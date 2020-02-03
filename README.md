@@ -1,4 +1,17 @@
 ## Welcome to GitHub Pages
+## Welcome to GitHub Pages
+# *what is agrowth mendset?*
+A mind that depends on qualities, abilities, competence, talent and is not static and can be developed, learned and changed and it can
+open pathways  to more creativity
+
+ # how to keep myself in a growth mindsets
+ 
+ 1. veiw challenges opportunities
+ 2. learn from other people's mistake
+ 3. make anew goal for every goal accomplisd
+ 4. celebrate growth with others
+ ![Github logo](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter.png)
+
 
 You can use the [editor on GitHub](https://github.com/Maramessa/lab00/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
